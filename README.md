@@ -1,5 +1,3 @@
-# Great-Outdoors-Guide
-
 
 <h1 style="text-align: center"> Great Outdoors Guide </h1>
 <p align="center">
@@ -9,7 +7,6 @@
 >
 </p>
 
-## Welcome to the Great Outdoors Guide
 ### Follow the links below to the corresponding repos
 * Frontend Repo: https://github.com/dsasse07/great-outdoors-guide-frontend
 * Backend Repo: https://github.com/dsasse07/great-outdoors-guide-backend
